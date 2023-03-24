@@ -1,8 +1,13 @@
-### Hi there 👋
+<h1 align="center"><strong>👋🏼Hello there. I am Yash Nayak</strong></h1>
+<h2 align="center">
+  <p>I am an AI/ML Enthusiast.</p>
+  <p>Some of my skills include Machine Learning, Natural Language Processing, PHP Developer, C, C++, Python, MySQL.</p>
+</h2>
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" height=300 />
+</p>
 
 <!--
-**YN1752/YN1752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
